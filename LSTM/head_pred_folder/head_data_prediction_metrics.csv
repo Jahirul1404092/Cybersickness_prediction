@@ -1,0 +1,2 @@
+dataset_name,mean_squared_error,root_mean_squared_error,mean_absolute_error,r2_score,smape,pcc,Total Time (sec)
+head,0.03,0.173,0.143,0.089,149.081,0.524,37.113
